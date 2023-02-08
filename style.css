@@ -1,1 +1,14 @@
-# my-second-repo
+body {
+    padding: 0;
+    margin: 0;
+}
+.cla {
+    border: 2px solid red;
+}
+.new {
+    margin: 5px;
+}
+
+.df {
+    padding: 5px;
+}
